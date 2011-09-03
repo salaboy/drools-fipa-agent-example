@@ -1,0 +1,5 @@
+/dss-agent-client/target/
+/dss-agent-custom-service/target/
+/dss-domain-client-example/target/
+.DS_Store
+
