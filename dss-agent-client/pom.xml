@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <artifactId>drools-fipa-agent</artifactId>
+        <artifactId>drools-fipa-agent-examples</artifactId>
         <groupId>org.drools.fipa</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>

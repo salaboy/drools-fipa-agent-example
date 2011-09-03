@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.drools.fipa</groupId>
-        <artifactId>drools-fipa-agent</artifactId>
+        <artifactId>drools-fipa-agent-examples</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>org.drools.fipa</groupId>
+    
     <artifactId>dss-agent-custom-service</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
